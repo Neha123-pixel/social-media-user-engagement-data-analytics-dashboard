@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+textblob
+nltk
+jupyter
